@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "316364187125",
+    "firebase_url": "https://quiz-challenge-c4d24.firebaseio.com",
+    "project_id": "quiz-challenge-c4d24",
+    "storage_bucket": "quiz-challenge-c4d24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316364187125:android:6a427c3947d905da9eecbc",
+        "android_client_info": {
+          "package_name": "com.example.quizchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316364187125-oauqkg3rsnen53jqeeejbd3n5ltrhve7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhFayBif6XBUiAF4vOO9T2LsalI3Sp7fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316364187125-oauqkg3rsnen53jqeeejbd3n5ltrhve7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
